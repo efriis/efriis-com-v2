@@ -1,7 +1,7 @@
 const Contact = (props) => (
     <section id="contact">
         <div className="inner">
-            <section>
+            {/* <section>
                 <form method="post" action="#">
                     <div className="field half first">
                         <label htmlFor="name">Name</label>
@@ -20,8 +20,8 @@ const Contact = (props) => (
                         <li><input type="reset" value="Clear" /></li>
                     </ul>
                 </form>
-            </section>
-            <section className="split">
+            </section> */}
+            <section>
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-envelope"></span>

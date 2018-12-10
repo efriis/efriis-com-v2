@@ -56,11 +56,13 @@ export default () => (
                 <section id="two">
                     <div className="inner">
                         <header className="major">
-                            <h2>This is What I Do</h2>
+                            <h2>What I'm Up To These Days</h2>
                         </header>
-                        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                        <p>I'm currently finishing up my <strong>M.Eng.</strong> in Electrical Engineering and Computer Science at <strong>MIT</strong>. I'm writing my <a href="/glass">thesis on online anomaly detection for distributed systems</a> at <strong>Akamai Technologies</strong>. My thesis advisors are <a href="https://www.linkedin.com/in/ron-chaney-9457272/">Ron Chaney</a> and <a href="http://people.csail.mit.edu/katrina/">Katrina LaCurts.</a></p>
+                        <p>This spring, I will be a teaching assistant in a graduate class called <a href="http://css.csail.mit.edu/6.858/">Computer Systems Security (6.858)</a> working under <a href="https://pdos.csail.mit.edu/~rtm/">Robert Morris</a> and <a href="https://pdos.csail.mit.edu/archive/kaashoek/">Frans Kaashoek.</a></p>
+                        <p>Next summer, I'll be moving out to <strong>San Francisco</strong> to start working on the future of computational problem solving at <strong>Instabase</strong>.</p>
                         <ul className="actions">
-                            <li><Link href="/landing"><a className="button next">Get Started</a></Link></li>
+                            <li><Link href="/about"><a className="button next">Tell Me More</a></Link></li>
                         </ul>
                     </div>
                 </section>
