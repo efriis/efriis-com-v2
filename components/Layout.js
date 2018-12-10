@@ -39,7 +39,8 @@ class Layout extends React.Component {
             <div className={`body ${this.state.loading} ${this.state.isMenuVisible ? 'is-menu-visible' : ''}`}>
                 <Head>
                     <title>Erick Friis</title>
-                    <meta name="description" content="Next.js Starter - Forty" />
+                    <meta name="description" content="My Personal Website" />
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
                     <link href="/static/css/skel.css" rel="stylesheet" />
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
                     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
