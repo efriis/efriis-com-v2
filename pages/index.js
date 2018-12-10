@@ -12,43 +12,43 @@ export default () => (
                 <section id="one" className="tiles">
                     <article style={{backgroundImage: `url('/static/images/pic01.jpg')`}}>
                         <header className="major">
-                            <h3>Aliquam</h3>
-                            <p>Ipsum dolor sit amet</p>
+                            <h3>About Me</h3>
+                            <p>Who is Erick Friis?</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/about"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic02.jpg')`}}>
                         <header className="major">
-                            <h3>Tempus</h3>
-                            <p>feugiat amet tempus</p>
+                            <h3>GLASS</h3>
+                            <p>My Masters Thesis Work at Akamai</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/glass"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic03.jpg')`}}>
                         <header className="major">
-                            <h3>Magna</h3>
-                            <p>Lorem etiam nullam</p>
+                            <h3>Freelancing</h3>
+                            <p>Let's work together!</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/freelancing"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic04.jpg')`}}>
                         <header className="major">
-                            <h3>Ipsum</h3>
-                            <p>Nisl sed aliquam</p>
+                            <h3>MIT Explorer</h3>
+                            <p>My team's work for Ian Waitz's "Designing the First Year" class at MIT</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/mit-explorer"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic05.jpg')`}}>
                         <header className="major">
-                            <h3>Consequat</h3>
-                            <p>Ipsum dolor sit amet</p>
+                            <h3>Droning</h3>
+                            <p>Various Media from my Mavic Pro</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic06.jpg')`}}>
                         <header className="major">
-                            <h3>Etiam</h3>
-                            <p>Feugiat amet tempus</p>
+                            <h3>Older Projects</h3>
+                            <p>From High School and Earlier</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
@@ -56,7 +56,7 @@ export default () => (
                 <section id="two">
                     <div className="inner">
                         <header className="major">
-                            <h2>Massa libero</h2>
+                            <h2>This is What I Do</h2>
                         </header>
                         <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
                         <ul className="actions">

@@ -2,10 +2,11 @@ const BannerLanding = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
-                <h1>About Me</h1>
+                <h1>Landing</h1>
             </header>
             <div className="content">
-                <p>Who is Erick Friis?</p>
+                <p>Lorem ipsum dolor sit amet nullam consequat<br />
+                sed veroeros. tempus adipiscing nulla.</p>
             </div>
         </div>
     </section>

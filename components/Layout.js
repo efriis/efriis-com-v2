@@ -38,11 +38,12 @@ class Layout extends React.Component {
         return (
             <div className={`body ${this.state.loading} ${this.state.isMenuVisible ? 'is-menu-visible' : ''}`}>
                 <Head>
-                    <title>Next.js Starter</title>
+                    <title>Erick Friis</title>
                     <meta name="description" content="Next.js Starter - Forty" />
                     <link href="/static/css/skel.css" rel="stylesheet" />
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
                     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
+                    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400" rel="stylesheet" />
                 </Head>
                 <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
 
